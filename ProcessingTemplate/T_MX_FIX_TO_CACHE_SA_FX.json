@@ -1,7 +1,8 @@
 {
-  "description": "update cache with fixing FX for SA",
+  "description": "update cache with fixing FX for SA - add this line",
   "folder": "MX_INTRADAY",
   "node": "murex_appserver",
+  "owner": "api_user",
   "priority": "0",
   "processingType": "TASK",
   "serverNodeType": "LINUX",
